@@ -59,7 +59,7 @@ body {
     display: flex;
     margin: 2% 0%;
     align-items: center;
-    background-image: url("assets/Hero-Background.svg");
+    background-image: url("Hero-Background.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -242,7 +242,7 @@ input {
     justify-content: center;
     text-align: center;
     row-gap: 20px;
-    background-image: url("assets/Pricing.svg");
+    background-image: url("Pricing.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -394,7 +394,7 @@ i {
 }
 
 .footer {
-    margin-top: 7%;
+    margin-top: 10%;
     display: flex;
     flex-direction: row;
     align-items: start;
